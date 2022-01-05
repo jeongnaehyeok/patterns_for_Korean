@@ -4,9 +4,9 @@
 
 ## Contents
 
-### Design Patterns
+### [Design Patterns](./Design_Patterns/index.md)
 
-1. **Introduction**
+1. [**Introduction**](./Design_Patterns/1.Introducion.md)
 2. **Overview of React.js**
 3. **Singleton Pattern**
 4. **Proxy Pattern**
