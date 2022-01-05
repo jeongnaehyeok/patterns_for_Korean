@@ -1,0 +1,1 @@
+# patterns_for_Korean
