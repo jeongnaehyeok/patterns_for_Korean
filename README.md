@@ -1,3 +1,5 @@
+![Main](./image/Main.png)
+
 # patterns_for_Korean
 
 [patterns](https://www.patterns.dev/)라는 책을 번역한 Github입니다. 
